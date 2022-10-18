@@ -1,0 +1,33 @@
+.header {
+  padding: 50px 0px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  cursor: pointer;
+}
+.menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.menu-item {
+  display: flex;
+}
+
+.heading1 {
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.heading2 {
+  font-size: 30px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
